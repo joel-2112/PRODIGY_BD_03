@@ -242,30 +242,4 @@ task03/
 
 Feel free to fork this repository, submit pull requests, or open issues for bugs or feature requests.
 
-## License
 
-This project is licensed under the MIT License.
-```
-
-### Instructions to Use
-
-1. **Create the `README.md` File**:
-   - In the root directory of your `task03` project, create a file named `README.md`:
-     ```bash
-     touch README.md
-     ```
-   - Open the file in a text editor (e.g., `nano`, `vim`, or VS Code) and paste the Markdown code above.
-
-2. **Save and Verify**:
-   - Save the file.
-   - If you’re using Git, add and commit the file:
-     ```bash
-     git add README.md
-     git commit -m "Add README.md with project documentation"
-     ```
-
-3. **View the README**:
-   - If you’re hosting the project on GitHub, GitLab, or another platform, the `README.md` will be rendered automatically as the main documentation page.
-   - Locally, you can use a Markdown viewer or preview it in an IDE like VS Code.
-
-This Markdown code provides a complete and well-structured `README.md` for your project. Let me know if you need any adjustments!
